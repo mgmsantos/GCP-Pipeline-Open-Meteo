@@ -12,7 +12,7 @@ A arquitetura foi desenhada com foco em eficiência, baixo custo (cota gratuita)
 3. **Armazenamento (BigQuery):** Data Warehouse que recebe o *Append* diário dos dados limpos de forma automática.
 4. **Visualização (Power BI):** Conexão nativa via SQL ao BigQuery para criação de dashboards interativos.
 
-![Pipeline ETL Google Cloud](<img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/4a18fbdf-6135-44c9-92fb-0e52ce28ad2b" />)
+<img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/c9dc55dc-47b3-4946-9a19-8168031a1aa1" />
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3+ (`pandas`, `requests`, `google-cloud-bigquery`)
