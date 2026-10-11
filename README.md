@@ -1,4 +1,3 @@
-<img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/3e384411-e092-463a-bd55-b966912139bf" />
 # Google Cloud Platform - Pipeline ETL Open-Meteo
 
 ## Sobre o Projeto
