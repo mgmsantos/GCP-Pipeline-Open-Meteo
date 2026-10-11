@@ -1,3 +1,4 @@
+<img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/3e384411-e092-463a-bd55-b966912139bf" />
 # Google Cloud Platform - Pipeline ETL Open-Meteo
 
 ## Sobre o Projeto
@@ -12,8 +13,7 @@ A arquitetura foi desenhada com foco em eficiência, baixo custo (cota gratuita)
 3. **Armazenamento (BigQuery):** Data Warehouse que recebe o *Append* diário dos dados limpos de forma automática.
 4. **Visualização (Power BI):** Conexão nativa via SQL ao BigQuery para criação de dashboards interativos.
 
-![Pipeline ETL Google Cloud](<img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/65ddaf44-9fd7-4756-9ce9-bf764808020d" />)
-
+![Pipeline ETL Google Cloud](<img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/4a18fbdf-6135-44c9-92fb-0e52ce28ad2b" />)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3+ (`pandas`, `requests`, `google-cloud-bigquery`)
