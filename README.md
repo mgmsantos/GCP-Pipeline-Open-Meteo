@@ -1,11 +1,8 @@
 # Google Cloud Platform - Pipeline ETL Automatizado de Dados Open-Meteo
 
---
-
 ## Sobre o Projeto
 Este projeto consiste na construção de um pipeline de dados (ETL) *serverless* e automatizado na Google Cloud Platform (GCP). O objetivo é extrair diariamente dados climáticos (temperatura máxima, mínima e precipitação) da região de São Carlos/SP (ou qualquer município) em escala diária, criando um histórico consolidado que serve de base para análises, modelagens em contextos de *Business Intelligence*.
 
---
 
 ## Arquitetura na Nuvem
 A arquitetura foi desenhada com foco em eficiência, baixo custo (cota gratuita) e segurança:
@@ -17,13 +14,10 @@ A arquitetura foi desenhada com foco em eficiência, baixo custo (cota gratuita)
 
 ![Pipeline ETL Google Cloud](<img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/65ddaf44-9fd7-4756-9ce9-bf764808020d" />)
 
---
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3+ (`pandas`, `requests`, `google-cloud-bigquery`)
 * **Google Cloud:** Cloud Run, Cloud Scheduler, BigQuery, IAM (Billing Alerts)
-
---
 
 ## Conecte-se Comigo
 
