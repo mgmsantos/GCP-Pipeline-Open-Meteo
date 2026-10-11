@@ -14,7 +14,7 @@ A arquitetura foi desenhada com foco em eficiência, baixo custo (cota gratuita)
 
 <img width="1280" height="961" alt="pipeline" src="https://github.com/user-attachments/assets/c9dc55dc-47b3-4946-9a19-8168031a1aa1" />
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Linguagem:** Python 3+ (`pandas`, `requests`, `google-cloud-bigquery`)
 * **Google Cloud:** Cloud Run, Cloud Scheduler, BigQuery, IAM (Billing Alerts)
 
